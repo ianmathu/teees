@@ -1,1 +1,3 @@
-kiongozi
+kiongoz
+int 
+mma
